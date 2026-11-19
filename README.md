@@ -9,7 +9,7 @@ Dev freelancer em Brasília. Faço sites, sistemas e apps pra negócio local, de
 - [**Instituto Evolutivo de Educação**](https://azaf3.github.io/instituto-evolutivo/): catálogo de pós-graduação e cursos por área
 - [**Quem tá no forninho**](https://quemtanoforninho.com.br): site do chá revelação do meu bebê, com confirmação de presença, palpites, lista de presentes e Pix
 - [**Caderno de Preços**](https://github.com/Azaf3/barataomarket): comparador de preços entre supermercados
-- **Acolhe+**: app de saúde mental em React Native + Expo, com backend em Node e Express
+- [**Acolhe+**](https://github.com/Azaf3/acolhe-mobile): app de saúde mental em React Native + Expo, com [API própria](https://github.com/Azaf3/acolhe-back) em Node e Express
 
 **Stack:** HTML, CSS, JavaScript, React, React Native (Expo), Node.js, Supabase, MongoDB
 
