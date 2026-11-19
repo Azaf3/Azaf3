@@ -1,16 +1,15 @@
-## Hi there 👋
+### Oi, eu sou o Israel 👋
 
-<!--
-**Azaf3/Azaf3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dev freelancer em Brasília. Faço sites, sistemas e apps pra negócio local, desde o site que recebe o pedido no WhatsApp até o painel que organiza as contas depois.
 
-Here are some ideas to get you started:
+**Alguns projetos**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**ABA Alimentos e Distribuição**](https://azaf3.github.io/aba/): sistema de pedidos com cestas básicas, frete calculado pelo CEP, orçamento em PDF e pedido pronto pro WhatsApp
+- [**Clínica Prevenire**](https://clinicaprevenire.com.br): site institucional de uma clínica de psicologia
+- [**Instituto Evolutivo de Educação**](https://institutoevolutivo.com.br): catálogo de pós-graduação e cursos por área
+- [**Caderno de Preços**](https://github.com/Azaf3/barataomarket): comparador de preços entre supermercados
+- **Acolhe+**: app de saúde mental em React Native + Expo, com backend em Node e Express
+
+**Stack:** HTML, CSS, JavaScript, React, React Native (Expo), Node.js, Supabase, MongoDB
+
+📂 [Portfólio](https://azaf3.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/israel-azafe-273b13150/) · ✉️ azaf3.dev@gmail.com
