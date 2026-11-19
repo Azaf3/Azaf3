@@ -13,4 +13,4 @@ Dev freelancer em Brasília. Faço sites, sistemas e apps pra negócio local, de
 
 **Stack:** HTML, CSS, JavaScript, React, React Native (Expo), Node.js, Supabase, MongoDB
 
-📂 [Portfólio](https://azaf3.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/israel-azafe-273b13150/) · ✉️ azaf3.dev@gmail.com
+📂 [Portfólio](https://azaf3.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/israelazafe/) · ✉️ azaf3.dev@gmail.com
