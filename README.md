@@ -6,7 +6,7 @@ Dev freelancer em Brasília. Faço sites, sistemas e apps pra negócio local, de
 
 - [**ABA Alimentos e Distribuição**](https://azaf3.github.io/aba/): sistema de pedidos com cestas básicas, frete calculado pelo CEP, orçamento em PDF e pedido pronto pro WhatsApp
 - [**Clínica Prevenire**](https://clinicaprevenire.com.br): site institucional de uma clínica de psicologia
-- [**Instituto Evolutivo de Educação**](https://institutoevolutivo.com.br): catálogo de pós-graduação e cursos por área
+- [**Instituto Evolutivo de Educação**](https://azaf3.github.io/instituto-evolutivo/): catálogo de pós-graduação e cursos por área
 - [**Quem tá no forninho**](https://quemtanoforninho.com.br): site do chá revelação do meu bebê, com confirmação de presença, palpites, lista de presentes e Pix
 - [**Caderno de Preços**](https://github.com/Azaf3/barataomarket): comparador de preços entre supermercados
 - **Acolhe+**: app de saúde mental em React Native + Expo, com backend em Node e Express
